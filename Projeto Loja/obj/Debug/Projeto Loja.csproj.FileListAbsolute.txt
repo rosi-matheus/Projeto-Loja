@@ -1,0 +1,10 @@
+E:\Projeto Loja\bin\Debug\Projeto Loja.exe.config
+E:\Projeto Loja\bin\Debug\Projeto Loja.exe
+E:\Projeto Loja\bin\Debug\Projeto Loja.pdb
+E:\Projeto Loja\obj\Debug\Projeto Loja.csproj.AssemblyReference.cache
+E:\Projeto Loja\obj\Debug\Projeto_Loja.Frm_loja.resources
+E:\Projeto Loja\obj\Debug\Projeto_Loja.Properties.Resources.resources
+E:\Projeto Loja\obj\Debug\Projeto Loja.csproj.GenerateResource.cache
+E:\Projeto Loja\obj\Debug\Projeto Loja.csproj.CoreCompileInputs.cache
+E:\Projeto Loja\obj\Debug\Projeto Loja.exe
+E:\Projeto Loja\obj\Debug\Projeto Loja.pdb
